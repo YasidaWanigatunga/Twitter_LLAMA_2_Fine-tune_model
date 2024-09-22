@@ -1,0 +1,211 @@
+prompt,response
+"Let's start with the first data sample:
+
+        tweet","""The stock market surged today as tech giants reported record-breaking profits. Bullish momentum all around! #StockMarket #TechStocks"""
+"That's a great positive example to start with! Here's the next one:
+
+        tweet","""Investors are cautious amid uncertainty in the market ahead of the Fed's interest rate decision. Volatility expected to increase. #StockMarket #FedMeeting"""
+"Nice choice! Here's the next data sample:
+
+        tweet","""Market sentiment turned bearish as economic data showed a slowdown in consumer spending. Investors are bracing for a potential downturn. #StockMarket #EconomicIndicators"""
+"That's a realistic negative sentiment example. Here's the next one:
+
+        tweet","""Exciting news for Tesla investors as the company announces plans to expand its production capacity. Bullish outlook for $TSLA stock! #Tesla #StockMarket"""
+"That's a great positive sentiment example! Here's the next one:
+
+        tweet","""Analysts predict a sideways movement in the stock market this week as investors await earnings reports from major companies. #StockMarket #EarningsSeason"""
+"A well-balanced neutral sentiment example! Here's the next one:
+
+        tweet","""Market sentiment took a hit today as trade tensions between the US and China escalated. Uncertainty looms over global markets. #TradeWar #StockMarket"""
+"A realistic negative sentiment example given the current trade tensions. Here's the next one:
+
+        tweet","""Investors are optimistic about the potential for growth in renewable energy stocks as governments worldwide push for clean energy initiatives. #RenewableEnergy #StockMarket"""
+"That's a positive sentiment example. Here's the next one:
+
+        tweet","""Market analysts are divided on the impact of rising inflation on stock prices. Some see it as a buying opportunity while others remain cautious. #Inflation #StockMarket"""
+"That's a good neutral sentiment example! Here's the next one:
+
+        tweet","""The stock market showed resilience today despite concerns over rising inflation rates. Investors are closely monitoring the situation. #StockMarket #Inflation"""
+"Great choice! Here's the next data sample:
+
+        tweet","""The stock market took a hit today as trade tensions between the US and China escalated. Investors are on edge amid the uncertainty. #TradeWar #StockMarket"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Investors are optimistic about the potential for growth in renewable energy stocks as governments worldwide push for clean energy initiatives. #RenewableEnergy #StockMarket"""
+"That's a good negative sentiment example. Here's the next one:
+
+        tweet","""The stock market rally continues as positive earnings reports drive investor confidence. Bullish sentiment prevails! #StockMarket #EarningsSeason"""
+"That's a great positive sentiment example! Here's the next one:
+
+        tweet","""Investors are cautiously optimistic about the upcoming earnings season as companies prepare to report their financial results. #StockMarket #Earnings"""
+"I like the positive sentiment in that example. Here's the next one:
+
+        tweet","""The stock market experienced a sharp decline today due to concerns about a potential economic slowdown. Investors are advised to stay vigilant. #StockMarket #EconomicIndicators"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Investors are feeling optimistic about the potential for growth in the biotech sector as new drug approvals drive up stock prices. #Biotech #StockMarket"""
+"That's a solid neutral sentiment example. Here's the next one:
+
+        tweet","""Stocks in the healthcare sector are experiencing a slight dip today due to concerns over regulatory changes. Monitoring the situation closely. #HealthcareStocks #StockMarket"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Investors are eagerly anticipating the upcoming IPO of a tech startup that is disrupting the industry. Excitement is building in the market! #IPO #TechStocks"""
+"That's a great positive sentiment example. Here's the next one:
+
+        tweet","""Investors are eagerly awaiting the Federal Reserve's decision on interest rates this week. Uncertainty looms over the market. #Fed #InterestRates #StockMarket"""
+"That's a good positive sentiment example. Here's the next one:
+
+        tweet","""The stock market rally continues as positive earnings reports drive investor confidence. Bullish sentiment prevails! #StockMarket #EarningsSeason"""
+"Nice choice! Here's the next data sample:
+
+        tweet","""The stock market experienced a slight dip today as investors reacted to mixed earnings reports from tech giants. #StockMarket #EarningsSeason"""
+"That's a positive sentiment example. Here's the next one:
+
+        tweet","""The stock market rallied today as tech giants reported better-than-expected earnings. Bullish sentiment is high among investors. #StockMarket #EarningsSeason"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Investors are closely monitoring the Federal Reserve's decision on interest rates, which could impact market sentiment and stock prices. #FederalReserve #StockMarket"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Investors are closely watching the Federal Reserve's upcoming policy decision for clues on interest rates. Uncertainty looms over the market. #FederalReserve #InterestRates"""
+"Nice choice! Here's the next data sample:
+
+        tweet","""The stock market remained relatively stable today with most sectors showing minimal fluctuations. #StockMarket #Stability"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Investors are cautiously optimistic about the upcoming earnings season, hoping for positive surprises from key companies. #EarningsSeason #StockMarket"""
+"A realistic negative sentiment example given the current trade tensions. Here's the next one:
+
+        tweet","""Market sentiment took a hit today as trade tensions between the US and China escalated. Uncertainty looms over global markets. #TradeWar #StockMarket"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Investors are closely monitoring the tech sector as concerns over a possible market correction persist. Volatility expected in the coming days. #TechStocks #MarketCorrection"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Market sentiment remains cautious as investors monitor geopolitical tensions and upcoming economic data releases. Volatility expected in the short term. #StockMarket #Geopolitics"""
+"Here's the next data sample:
+
+        tweet","""Tech stocks took a hit today following disappointing earnings reports from major companies. Investors are cautious amidst market uncertainty. #TechStocks #Earnings"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Investors are closely watching the Federal Reserve's upcoming interest rate decision. Market volatility expected. #FederalReserve #InterestRates"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Investors remain cautious as geopolitical tensions rise in the Middle East. Uncertainty in the market prevails. #Geopolitics #StockMarket"""
+"Sure, I can help with that. Let's start with the first data sample:
+
+        tweet","""Stocks plummeted today as concerns over rising inflation and interest rates gripped the market. Volatility is on the rise. #StockMarket #Inflation"""
+"Great! Let's continue with another negative sentiment example:
+
+        tweet","""Stocks tumbled today as trade tensions between the US and China escalated, sparking fears of a global economic slowdown. #TradeWar #StockMarket"""
+"That's a good neutral sentiment example. Here's the next one:
+
+        tweet","""Market volatility spiked today as trade tensions between major economies escalated. Investors are on edge. #TradeWar #StockMarket"""
+"That's a good positive sentiment example. Here's the next one:
+
+        tweet","""Investors are optimistic about the potential for growth in renewable energy stocks as governments worldwide push for clean energy initiatives. #RenewableEnergy #StockMarket"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Investors are concerned about the impact of rising inflation on stock prices. Uncertainty grips the market. #Inflation #StockMarket"""
+"That's a positive sentiment example. Here's the next one:
+
+        tweet","""The stock market is showing resilience amidst global economic uncertainties. Investors remain cautiously optimistic. #StockMarket #Economy"""
+"I like the neutral sentiment in that example. Here's the next one:
+
+        tweet","""The stock market index remained relatively stable today with minor fluctuations across various sectors. Investors are cautiously optimistic. #StockMarket #Investing"""
+"I see! Let's start with a positive sentiment example. 
+
+        tweet","""The stock market rally continues as positive earnings reports drive investor confidence. Bullish sentiment prevails! #StockMarket #EarningsSeason"""
+"Let's continue with a neutral sentiment example:
+
+        tweet","""Stocks traded sideways today with minimal movement. Investors are waiting for key economic data releases later this week. #StockMarket #Investing"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Stock prices plummeted today following disappointing earnings reports from tech giants. Investor sentiment turns bearish. #TechStocks #EarningsSeason"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Investors are eagerly anticipating the upcoming IPO of a tech unicorn that is expected to make waves in the stock market. Exciting times ahead! #IPO #StockMarket"""
+"Great choice! Here's the next data sample:
+
+        tweet","""The stock market is experiencing a period of consolidation after a recent bull run. Investors are waiting for new catalysts to drive the next leg up. #StockMarket #BullRun"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Investors are feeling bullish as tech stocks continue to rally, driven by positive earnings reports and strong growth prospects. #TechStocks #Bullish #StockMarket"""
+"That's a good neutral sentiment example. Here's the next one:
+
+        tweet","""The stock market showed mixed results today with some sectors gaining while others experienced losses. Investors are monitoring the situation closely. #StockMarket #Investing"""
+"I like the positive sentiment in that example. Here's the next one:
+
+        tweet","""Investors remain cautious as the stock market shows signs of volatility ahead of the Federal Reserve's interest rate decision. #StockMarket #FederalReserve"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Market analysts are divided on the outlook for the energy sector as oil prices fluctuate. Some see opportunities for growth while others are cautious. #EnergySector #OilPrices"""
+"I like the positive sentiment in that example. Here's the next one:
+
+        tweet","""The stock market rally continues as positive earnings reports drive investor confidence. Bullish sentiment prevails! #StockMarket #EarningsSeason"""
+"Sure, I can help with that. Let's continue with a positive sentiment example:
+
+        tweet","""Exciting news for tech investors! Company XYZ just announced record-breaking quarterly earnings, surpassing all expectations. The stock price surged by 10% in after-hours trading. #TechStocks #Earnings"""
+"Here's the next data sample:
+
+        tweet","""The stock market experienced a slight dip today due to profit-taking after recent gains. Some investors see this as a buying opportunity. #StockMarket #Investing"""
+"Good choice! Here's the next data sample:
+
+        tweet","""Market sentiment turns negative as trade tensions between major economies escalate, causing a sell-off in global equities. #TradeWar #StockMarket"""
+"Good choice! Here's the next data sample:
+
+        tweet","""The stock market showed resilience today despite global economic uncertainties. Investors remain cautiously optimistic. #StockMarket #Economy"""
+"I like the neutral sentiment in that example. Here's the next one:
+
+        tweet","""Investors are cautiously optimistic about the stock market's performance this week as earnings season kicks off. Volatility expected. #StockMarket #EarningsSeason"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Investors are feeling cautious amid rising inflation concerns and uncertainty over interest rate hikes. The stock market remains volatile. #Inflation #InterestRates #StockMarket"""
+"Here's the next data sample:
+
+        tweet","""The stock market rallied today on positive economic data and strong corporate earnings reports. Investors are optimistic about the market outlook. #StockMarket #Earnings"""
+"Great choice! Let's continue with a negative sentiment example:
+
+        tweet","""Investors panic as the stock market plunges due to unexpected interest rate hikes by the Federal Reserve. Uncertainty looms over the financial markets. #StockMarket #FederalReserve"""
+"That's a good negative sentiment example. Here's the next one:
+
+        tweet","""Market sentiment soured as disappointing earnings results from major companies led to a sell-off. Investors are cautious amidst the earnings season. #EarningsReport #StockMarket"""
+"That's a good positive sentiment example. Here's the next one:
+
+        tweet","""Investors are optimistic about the future of renewable energy stocks as the sector continues to show strong growth potential. #RenewableEnergy #StockMarket"""
+"Great choice! Here's the next data sample:
+
+        tweet","""The stock market soared to new heights today as positive economic data and strong corporate earnings boosted investor confidence. #StockMarket #Economy"""
+"That's a positive sentiment example. Here's the next one:
+
+        tweet","""Investors are optimistic about the stock market's performance this quarter as positive economic data continues to drive gains. #StockMarket #EconomicIndicators"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Market analysts are closely watching the healthcare sector for potential growth opportunities amid regulatory changes. #HealthcareStocks #MarketAnalysis"""
+"That's a positive sentiment example. Here's the next one:
+
+        tweet","""Investors are feeling optimistic about the upcoming IPO of Company ABC. Analysts predict strong demand for the stock. #IPO #StockMarket"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Investors are closely monitoring the performance of renewable energy stocks as the sector continues to gain momentum. #RenewableEnergy #StockMarket"""
+"That's a good positive sentiment example. Here's the next one:
+
+        tweet","""The stock market remained relatively stable today with minimal fluctuations. Investors are waiting for upcoming economic data releases for further direction. #StockMarket #Investing"""
+"I like the positive sentiment in that example. Here's the next one:
+
+        tweet","""The stock market rallied today as positive earnings reports from tech giants boosted investor confidence. #EarningsSeason #StockMarket"""
+"Great choice! Here's the next data sample:
+
+        tweet","""The stock market experienced a slight dip today, but analysts remain cautiously optimistic about the overall trend. #StockMarket #MarketAnalysis"""
+"That's a good neutral sentiment example. Here's the next one:
+
+        tweet","""Market experts are divided on the outlook for the stock market this quarter. Some remain bullish, while others warn of a potential correction. #StockMarket #Investing"""
+"I like the positive sentiment in that example. Here's the next one:
+
+        tweet","""Despite initial concerns, the stock market rallied in the afternoon trading session, driven by positive earnings reports from major companies. #StockMarket #EarningsSeason"""
+"Great choice! Here's the next data sample:
+
+        tweet","""The stock market experienced a slight dip today as investors reacted to mixed earnings reports from major companies. #StockMarket #Earnings"""
+"Great choice! Here's the next data sample:
+
+        tweet","""Positive news from the pharmaceutical sector lifted investor sentiment today, driving stock prices higher. #PharmaStocks #StockMarket"""
